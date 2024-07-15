@@ -18,7 +18,7 @@ bash
 
 Copy code
 
-git clone  https://github.com/toqeerabid10/Toqeer-React-PortFolio.git
+git clone  https://github.com/toqeerabid10/PortFolio.git
 
 Navigate to the project directory:
 
