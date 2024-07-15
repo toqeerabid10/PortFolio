@@ -4,7 +4,7 @@ Welcome to my personal portfolio built with React! This project showcases my ski
 #Screenshot
 ![image](https://github.com/user-attachments/assets/0ecd8cb9-ed57-43a7-9608-9b9096c8e52d)
 ![image](https://github.com/user-attachments/assets/f884660b-8fc7-4ed3-8343-905a6842f5ed)
-![image](https://github.com/user-attachments/assets/d7ae485b-752f-4dd8-b9f2-e434a27d1bb2)
+![image](https://github.com/user-attachments/assets/d7ae485b-752f-4dd8-b9f2-e434a27d1bb2) 
 
 
 
