@@ -8,52 +8,11 @@ Welcome to my personal portfolio built with React! This project showcases my ski
 
 
 
+# Installation
 
+https://github.com/user-attachments/assets/59400c78-d33b-44cd-9ddd-d8a1907eb294
 
+# Running on browser
 
-#Installation
+https://github.com/user-attachments/assets/4ffe47ce-1868-4de1-958a-d676ea722329
 
-To run this project locally, follow these steps:
-
-Clone the repository:
-
-bash
-
-Copy code
-
-git clone  https://github.com/toqeerabid10/PortFolio.git
-
-Navigate to the project directory:
-
-bash
-
-Copy code
-
-cd Toqeer-React-PortFolio
-
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-
-Deployment
-This project is deployed using GitHub Pages. To deploy your own version, follow these steps:
-
-Build the project:
-
-bash
-Copy code
-npm run build
-Deploy to GitHub Pages:
-bash
-Copy code
-npm run deploy
-
-Contributing
-
-Contributions are welcome! If you have any ideas or suggestions to improve this portfolio, feel free to open an issue or submit a pull request.
